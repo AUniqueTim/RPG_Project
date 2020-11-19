@@ -1,0 +1,2504 @@
+fileFormatVersion: 2
+guid: 9ddc2a1d80bf5cb43803dd67ed3a249b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7499736084906760207
+    second: TextureMap_1000x100pixels_72ppi_16Bit_0
+  - first:
+      213: 834462011908106312
+    second: TextureMap_1000x100pixels_72ppi_16Bit_1
+  - first:
+      213: -5072011361565611145
+    second: TextureMap_1000x100pixels_72ppi_16Bit_2
+  - first:
+      213: 3360819741445617329
+    second: TextureMap_1000x100pixels_72ppi_16Bit_3
+  - first:
+      213: -2443846456675757745
+    second: TextureMap_1000x100pixels_72ppi_16Bit_4
+  - first:
+      213: 5424434924330119247
+    second: TextureMap_1000x100pixels_72ppi_16Bit_5
+  - first:
+      213: 4380133284903166462
+    second: TextureMap_1000x100pixels_72ppi_16Bit_6
+  - first:
+      213: 3507646627812700701
+    second: TextureMap_1000x100pixels_72ppi_16Bit_7
+  - first:
+      213: 666385206518120650
+    second: TextureMap_1000x100pixels_72ppi_16Bit_8
+  - first:
+      213: 2520909818776729993
+    second: TextureMap_1000x100pixels_72ppi_16Bit_9
+  - first:
+      213: -7910321243523321565
+    second: TextureMap_1000x100pixels_72ppi_16Bit_10
+  - first:
+      213: -2177798081089507501
+    second: TextureMap_1000x100pixels_72ppi_16Bit_11
+  - first:
+      213: 2845962385915528623
+    second: TextureMap_1000x100pixels_72ppi_16Bit_12
+  - first:
+      213: -8500474556605345546
+    second: TextureMap_1000x100pixels_72ppi_16Bit_13
+  - first:
+      213: -2691761232071309520
+    second: TextureMap_1000x100pixels_72ppi_16Bit_14
+  - first:
+      213: 2870582088136323576
+    second: TextureMap_1000x100pixels_72ppi_16Bit_15
+  - first:
+      213: 2950487706007032556
+    second: TextureMap_1000x100pixels_72ppi_16Bit_16
+  - first:
+      213: 5887378821356885930
+    second: TextureMap_1000x100pixels_72ppi_16Bit_17
+  - first:
+      213: 2525544521073228734
+    second: TextureMap_1000x100pixels_72ppi_16Bit_18
+  - first:
+      213: 6824197485556023627
+    second: TextureMap_1000x100pixels_72ppi_16Bit_19
+  - first:
+      213: -2086784223538189831
+    second: TextureMap_1000x100pixels_72ppi_16Bit_20
+  - first:
+      213: 5418128235165422002
+    second: TextureMap_1000x100pixels_72ppi_16Bit_21
+  - first:
+      213: -3192435611117873230
+    second: TextureMap_1000x100pixels_72ppi_16Bit_22
+  - first:
+      213: -4984891973407768014
+    second: TextureMap_1000x100pixels_72ppi_16Bit_23
+  - first:
+      213: 1247089201799883891
+    second: TextureMap_1000x100pixels_72ppi_16Bit_24
+  - first:
+      213: -1697102754155063731
+    second: TextureMap_1000x100pixels_72ppi_16Bit_25
+  - first:
+      213: 1729938623412551512
+    second: TextureMap_1000x100pixels_72ppi_16Bit_26
+  - first:
+      213: -3640849631274059913
+    second: TextureMap_1000x100pixels_72ppi_16Bit_27
+  - first:
+      213: 7664479646256652382
+    second: TextureMap_1000x100pixels_72ppi_16Bit_28
+  - first:
+      213: -1877434415716133132
+    second: TextureMap_1000x100pixels_72ppi_16Bit_29
+  - first:
+      213: 2964698295297148374
+    second: TextureMap_1000x100pixels_72ppi_16Bit_30
+  - first:
+      213: 5454759657030256464
+    second: TextureMap_1000x100pixels_72ppi_16Bit_31
+  - first:
+      213: 3613991907432430994
+    second: TextureMap_1000x100pixels_72ppi_16Bit_32
+  - first:
+      213: 7303006861164164543
+    second: TextureMap_1000x100pixels_72ppi_16Bit_33
+  - first:
+      213: -2233060702364380652
+    second: TextureMap_1000x100pixels_72ppi_16Bit_34
+  - first:
+      213: -5258220828998032635
+    second: TextureMap_1000x100pixels_72ppi_16Bit_35
+  - first:
+      213: 3948532365885610652
+    second: TextureMap_1000x100pixels_72ppi_16Bit_36
+  - first:
+      213: 8077279604314533731
+    second: TextureMap_1000x100pixels_72ppi_16Bit_37
+  - first:
+      213: 5487384681783828288
+    second: TextureMap_1000x100pixels_72ppi_16Bit_38
+  - first:
+      213: -8597539609290827804
+    second: TextureMap_1000x100pixels_72ppi_16Bit_39
+  - first:
+      213: 319864234323860449
+    second: TextureMap_1000x100pixels_72ppi_16Bit_40
+  - first:
+      213: -6687588280083556997
+    second: TextureMap_1000x100pixels_72ppi_16Bit_41
+  - first:
+      213: -2392841930192393836
+    second: TextureMap_1000x100pixels_72ppi_16Bit_42
+  - first:
+      213: 7960727634290816709
+    second: TextureMap_1000x100pixels_72ppi_16Bit_43
+  - first:
+      213: 4005868796829553830
+    second: TextureMap_1000x100pixels_72ppi_16Bit_44
+  - first:
+      213: -4379041493705476933
+    second: TextureMap_1000x100pixels_72ppi_16Bit_45
+  - first:
+      213: -4425100101375350935
+    second: TextureMap_1000x100pixels_72ppi_16Bit_46
+  - first:
+      213: -438463427719638512
+    second: TextureMap_1000x100pixels_72ppi_16Bit_47
+  - first:
+      213: -1407806485659810959
+    second: TextureMap_1000x100pixels_72ppi_16Bit_48
+  - first:
+      213: 3770946116509273131
+    second: TextureMap_1000x100pixels_72ppi_16Bit_49
+  - first:
+      213: -8185612807665528430
+    second: TextureMap_1000x100pixels_72ppi_16Bit_50
+  - first:
+      213: 2562004135852098401
+    second: TextureMap_1000x100pixels_72ppi_16Bit_51
+  - first:
+      213: 7835771865171422839
+    second: TextureMap_1000x100pixels_72ppi_16Bit_52
+  - first:
+      213: 3674469978734750926
+    second: TextureMap_1000x100pixels_72ppi_16Bit_53
+  - first:
+      213: -7230061522953625297
+    second: TextureMap_1000x100pixels_72ppi_16Bit_54
+  - first:
+      213: -5792770856515647458
+    second: TextureMap_1000x100pixels_72ppi_16Bit_55
+  - first:
+      213: 5413290038803079545
+    second: TextureMap_1000x100pixels_72ppi_16Bit_56
+  - first:
+      213: -7305775939924458313
+    second: TextureMap_1000x100pixels_72ppi_16Bit_57
+  - first:
+      213: 7827385294758672560
+    second: TextureMap_1000x100pixels_72ppi_16Bit_58
+  - first:
+      213: -349495145741743404
+    second: TextureMap_1000x100pixels_72ppi_16Bit_59
+  - first:
+      213: -4938898208018831124
+    second: TextureMap_1000x100pixels_72ppi_16Bit_60
+  - first:
+      213: 1809451110874116259
+    second: TextureMap_1000x100pixels_72ppi_16Bit_61
+  - first:
+      213: -5326979993658163062
+    second: TextureMap_1000x100pixels_72ppi_16Bit_62
+  - first:
+      213: -2723905955201880628
+    second: TextureMap_1000x100pixels_72ppi_16Bit_63
+  - first:
+      213: 6324834566974535178
+    second: TextureMap_1000x100pixels_72ppi_16Bit_64
+  - first:
+      213: 1897884546126657705
+    second: TextureMap_1000x100pixels_72ppi_16Bit_65
+  - first:
+      213: -7652804882905954936
+    second: TextureMap_1000x100pixels_72ppi_16Bit_66
+  - first:
+      213: 3482935900811111431
+    second: TextureMap_1000x100pixels_72ppi_16Bit_67
+  - first:
+      213: 1388284476643024619
+    second: TextureMap_1000x100pixels_72ppi_16Bit_68
+  - first:
+      213: -4196094454734994435
+    second: TextureMap_1000x100pixels_72ppi_16Bit_69
+  - first:
+      213: -9048745939793968270
+    second: TextureMap_1000x100pixels_72ppi_16Bit_70
+  - first:
+      213: -4960738114155799745
+    second: TextureMap_1000x100pixels_72ppi_16Bit_71
+  - first:
+      213: 6471075257354984879
+    second: TextureMap_1000x100pixels_72ppi_16Bit_72
+  - first:
+      213: -7907376311839436651
+    second: TextureMap_1000x100pixels_72ppi_16Bit_73
+  - first:
+      213: 2814657305114051819
+    second: TextureMap_1000x100pixels_72ppi_16Bit_74
+  - first:
+      213: -2220075184809548670
+    second: TextureMap_1000x100pixels_72ppi_16Bit_75
+  - first:
+      213: -2368152790767585643
+    second: TextureMap_1000x100pixels_72ppi_16Bit_76
+  - first:
+      213: -1846977370512957783
+    second: TextureMap_1000x100pixels_72ppi_16Bit_77
+  - first:
+      213: -8450123061144597033
+    second: TextureMap_1000x100pixels_72ppi_16Bit_78
+  - first:
+      213: 1119062102873027161
+    second: TextureMap_1000x100pixels_72ppi_16Bit_79
+  - first:
+      213: -1099457982822869146
+    second: TextureMap_1000x100pixels_72ppi_16Bit_80
+  - first:
+      213: -7612433861003373667
+    second: TextureMap_1000x100pixels_72ppi_16Bit_81
+  - first:
+      213: 6705984305922309036
+    second: TextureMap_1000x100pixels_72ppi_16Bit_82
+  - first:
+      213: -2309195475496788067
+    second: TextureMap_1000x100pixels_72ppi_16Bit_83
+  - first:
+      213: -6656413200285866782
+    second: TextureMap_1000x100pixels_72ppi_16Bit_84
+  - first:
+      213: -3834960150403166487
+    second: TextureMap_1000x100pixels_72ppi_16Bit_85
+  - first:
+      213: -8812721226811826625
+    second: TextureMap_1000x100pixels_72ppi_16Bit_86
+  - first:
+      213: 825596169764287177
+    second: TextureMap_1000x100pixels_72ppi_16Bit_87
+  - first:
+      213: -384059637549402084
+    second: TextureMap_1000x100pixels_72ppi_16Bit_88
+  - first:
+      213: 7992184964492424745
+    second: TextureMap_1000x100pixels_72ppi_16Bit_89
+  - first:
+      213: -2242837033019293489
+    second: TextureMap_1000x100pixels_72ppi_16Bit_90
+  - first:
+      213: -4232140932582763022
+    second: TextureMap_1000x100pixels_72ppi_16Bit_91
+  - first:
+      213: -3124475152525510955
+    second: TextureMap_1000x100pixels_72ppi_16Bit_92
+  - first:
+      213: 6031492240249355427
+    second: TextureMap_1000x100pixels_72ppi_16Bit_93
+  - first:
+      213: 3990725901107260132
+    second: TextureMap_1000x100pixels_72ppi_16Bit_94
+  - first:
+      213: 7790470993597287713
+    second: TextureMap_1000x100pixels_72ppi_16Bit_95
+  - first:
+      213: 4527749673114689738
+    second: TextureMap_1000x100pixels_72ppi_16Bit_96
+  - first:
+      213: 6031775545861931807
+    second: TextureMap_1000x100pixels_72ppi_16Bit_97
+  - first:
+      213: -8447367714470337945
+    second: TextureMap_1000x100pixels_72ppi_16Bit_98
+  - first:
+      213: 5750525873339955619
+    second: TextureMap_1000x100pixels_72ppi_16Bit_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad08c7cbe602bbd4cb4b7da4d3be6b34
+      internalID: -7499736084906760207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286ca6edad820943953b66f3e0013a1
+      internalID: 834462011908106312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4bd151c1f00f5429235abc01b2fa3f
+      internalID: -5072011361565611145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7c4dd22d202b6428dc011bd62ad1f2
+      internalID: 3360819741445617329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaed96efef56894ea32b4b227436a57
+      internalID: -2443846456675757745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0badac639267a54a863e31c92b78d9d
+      internalID: 5424434924330119247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a7a481cc5659d48a78571b12111fbc
+      internalID: 4380133284903166462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881a6a16960d3f4fabbade8ec260d1e
+      internalID: 3507646627812700701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e2a6e4dccf0449b88743f742cb0a7
+      internalID: 666385206518120650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b80b2e97c110747bc5873d206e9d35
+      internalID: 2520909818776729993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d8d496681e0545b5b996e09f4611b
+      internalID: -7910321243523321565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddfbc18e3bbc53459ed2886a99b2e87
+      internalID: -2177798081089507501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f210aefddd58d4cab32c2d695e9839
+      internalID: 2845962385915528623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260f6d3107e72440b96395ee04dbf35
+      internalID: -8500474556605345546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccd76b2ab448ad4e94e7a685b7ef4d2
+      internalID: -2691761232071309520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e6632a8dcecd41809ca7587aa9c21
+      internalID: 2870582088136323576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9af06a54f358545933f711967ca817
+      internalID: 2950487706007032556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710cd3b0c76ebf44a2970ffd5b38f7d
+      internalID: 5887378821356885930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad1c42a9f482c43b64b3a0ea575ccc
+      internalID: 2525544521073228734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b88db84af1d945a9fe52ce2826665
+      internalID: 6824197485556023627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8aca9d14d14c349b0823c8b8fb90f0
+      internalID: -2086784223538189831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d680c5fd66e074eb15b666849706ef
+      internalID: 5418128235165422002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945d5853019a3cb4c92c42e015e80d52
+      internalID: -3192435611117873230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c36e7bdd563c24689d55f8a9c141fe
+      internalID: -4984891973407768014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff2999a50103e4bac1a0e7d5843c8f
+      internalID: 1247089201799883891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e243f099e644ea46bb94754fbcc79d1
+      internalID: -1697102754155063731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14d75b1ad0ea547a43e356ce462771
+      internalID: 1729938623412551512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb597385b3e224da5b20a48116d6e4
+      internalID: -3640849631274059913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c3878dc79fb8469450005c2d71560
+      internalID: 7664479646256652382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf1dd7baea0af48a08c4e9a480da86
+      internalID: -1877434415716133132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cd8943d908cc4fa55d1194e93df41
+      internalID: 2964698295297148374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c059359ee4bbb4f4ba61ad0b87fbbd15
+      internalID: 5454759657030256464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d71875e6e231e439034d0f36dd8fa7
+      internalID: 3613991907432430994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07407843451c60f4d871707b261828d1
+      internalID: 7303006861164164543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279807b97c1a8d14f8b81d9b60076333
+      internalID: -2233060702364380652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f770421a98393e48866707d0762a9d9
+      internalID: -5258220828998032635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f5c6bd9768f248b1970d07bfb3698
+      internalID: 3948532365885610652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6da5265fd666b42bffdb536190ef8d
+      internalID: 8077279604314533731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d880b72008e8b4982bbbaa72514b2f
+      internalID: 5487384681783828288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c051263c5a5e2049b6440fd46d79221
+      internalID: -8597539609290827804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9685fd5086bd48b2d6041fc1abda2
+      internalID: 319864234323860449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3808c43f8d0ee54badbc8e1c7e1f3a4
+      internalID: -6687588280083556997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd2d36e54c461c4da384e5c6d63c723
+      internalID: -2392841930192393836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b0531353686940bb89354ed2ef870
+      internalID: 7960727634290816709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5264dbe8062154d9ca5ed0492dbfee
+      internalID: 4005868796829553830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55636eed095f2428183efc0980f86b
+      internalID: -4379041493705476933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b631d1bb7fd1479a5976e41c29531
+      internalID: -4425100101375350935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b45ae0f84c1a446a0de1bcd23fd2e7
+      internalID: -438463427719638512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56370ed0225583c478d078c45af394ef
+      internalID: -1407806485659810959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25fdb3f382bc54ab7a0a1c199b4ac3
+      internalID: 3770946116509273131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cbd8f7f62997448b79a3fa1cbcec92
+      internalID: -8185612807665528430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de06cb244c035224f99f9bb18307cceb
+      internalID: 2562004135852098401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b52136f93b97e45a5628f82e0adb3b
+      internalID: 7835771865171422839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22933d3d8fb7f949be6a95b25283696
+      internalID: 3674469978734750926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35c170e7accd049a6eb7845967fe46
+      internalID: -7230061522953625297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdb52991ecb14d4686845ce714680f2
+      internalID: -5792770856515647458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192726ac158dd5a4fa2e2b19b4ca6d30
+      internalID: 5413290038803079545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967c84fe008e6f4ebdb0bb23c63176a
+      internalID: -7305775939924458313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d312a0718ed1a42a836bda9302c8e0
+      internalID: 7827385294758672560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4242de4ffe4d5439883bf9ed4f8953
+      internalID: -349495145741743404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b602439054c814fbadd12a146b6109
+      internalID: -4938898208018831124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c4fe9ef30a41c45a2c43fbadb3cd69
+      internalID: 1809451110874116259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3fad75166c85748955a1f33fe489da
+      internalID: -5326979993658163062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1d335f991f3946bddf6597b5b8554
+      internalID: -2723905955201880628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1423038bc2aa84f40b17e63887d395cd
+      internalID: 6324834566974535178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f44d87613631844a57c5c7da2f1459
+      internalID: 1897884546126657705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae98de259c449448920b51579782aef
+      internalID: -7652804882905954936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4a76e61d11844dae25b6c4c2635dd
+      internalID: 3482935900811111431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf163bf28bc7341aea94026c39fb41
+      internalID: 1388284476643024619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202ad1ec7215e3f4197877fb01ce4961
+      internalID: -4196094454734994435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d047f3bcb84b874ebb52d1e43622283
+      internalID: -9048745939793968270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1257411edf328dc4db17c4689e7ae4e2
+      internalID: -4960738114155799745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65c08a60eaccd45b551c4526e2b086
+      internalID: 6471075257354984879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23845c1d41a7d34c91568360cbfb78e
+      internalID: -7907376311839436651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296416c278955d40b3bf4fde2668390
+      internalID: 2814657305114051819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b518bc98e64bc41890773d6d6c9240
+      internalID: -2220075184809548670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70967b829898a47aa874e7daae6395
+      internalID: -2368152790767585643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7885e4aac65ae3745a7452f94c76df1e
+      internalID: -1846977370512957783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d672bc496cd314e8ac3cc7a69280a3
+      internalID: -8450123061144597033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_79
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e430ee35fb57d74c83cb304de87f65d
+      internalID: 1119062102873027161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704032dbdf03935439c5375290a4163a
+      internalID: -1099457982822869146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e37b54efe0bf4eb0c6a342f843a6c
+      internalID: -7612433861003373667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fcf105105c47449aec4e95486ffb5
+      internalID: 6705984305922309036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27aeb753e2bf946a9b737794ded35c
+      internalID: -2309195475496788067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878357c4ffda7b42be791d802b1cbe7
+      internalID: -6656413200285866782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa02e1c9af8ec445998d62b9cf0fd80
+      internalID: -3834960150403166487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc238e509ac374242a3dc7f3a0686efe
+      internalID: -8812721226811826625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d812bbda631447a79b0bd7737f7a7
+      internalID: 825596169764287177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dfa3fc7370c38448d3922d019c0e5a
+      internalID: -384059637549402084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec26db78c6a98e41aa51bf7b3deb304
+      internalID: 7992184964492424745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c159315b4cb724c90698a9469a30b6
+      internalID: -2242837033019293489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e235ab1f07cf14cad1ed09491dacf5
+      internalID: -4232140932582763022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fef765e098a7a40889d3754f052e45
+      internalID: -3124475152525510955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00413f30dd29e9143a6537d4d6103a73
+      internalID: 6031492240249355427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd30ecf0fc483ac4197a6abc1d6086d2
+      internalID: 3990725901107260132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c39f572b91aee41a438a153d7bbfec
+      internalID: 7790470993597287713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287bd2e9dc775f045b369d5a7044a537
+      internalID: 4527749673114689738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebee93cf098a2546b81182b063fff6f
+      internalID: 6031775545861931807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c6409bf7c8f64480c310da9c59284
+      internalID: -8447367714470337945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureMap_1000x100pixels_72ppi_16Bit_99
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecb629b8c5bb54a88092d3fd1cce0f
+      internalID: 5750525873339955619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cae17ff6c6bdfd24c94df695978a3981
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

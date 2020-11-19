@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: cb383b138bd36a34fab9b337b41f9e4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1284996690575848512
+    second: NEW_BH_Run_Spritesheet_Resized_0
+  - first:
+      213: 2032166150250155049
+    second: NEW_BH_Run_Spritesheet_Resized_1
+  - first:
+      213: 5544515425720859098
+    second: NEW_BH_Run_Spritesheet_Resized_2
+  - first:
+      213: 2485188540290206499
+    second: NEW_BH_Run_Spritesheet_Resized_3
+  - first:
+      213: 8101369742902606139
+    second: NEW_BH_Run_Spritesheet_Resized_4
+  - first:
+      213: 3002130156608811367
+    second: NEW_BH_Run_Spritesheet_Resized_5
+  - first:
+      213: 2097790698746160618
+    second: NEW_BH_Run_Spritesheet_Resized_6
+  - first:
+      213: 917563867120692654
+    second: NEW_BH_Run_Spritesheet_Resized_7
+  - first:
+      213: -2728055910707386969
+    second: NEW_BH_Run_Spritesheet_Resized_8
+  - first:
+      213: 3571234756329709559
+    second: NEW_BH_Run_Spritesheet_Resized_9
+  - first:
+      213: -6225840635676661958
+    second: NEW_BH_Run_Spritesheet_Resized_10
+  - first:
+      213: 6301209820672155867
+    second: NEW_BH_Run_Spritesheet_Resized_11
+  - first:
+      213: -6828438638383907143
+    second: NEW_BH_Run_Spritesheet_Resized_12
+  - first:
+      213: 1450090346852457796
+    second: NEW_BH_Run_Spritesheet_Resized_13
+  - first:
+      213: -8898442505552096723
+    second: NEW_BH_Run_Spritesheet_Resized_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 397
+        width: 124
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c886fd8e9c99242abf98dc4537449e
+      internalID: 1284996690575848512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 400
+        width: 97
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be61f96b2cd714e892776a54e9f531
+      internalID: 2032166150250155049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 400
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e515e9797bcd49bed67e649294eba
+      internalID: 5544515425720859098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 398
+        width: 143
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba57ce6008070d4d855df4c5362abca
+      internalID: 2485188540290206499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 403
+        width: 133
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5c70d9ef7e9704f82f6eeed1fd2cd9
+      internalID: 8101369742902606139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 410
+        width: 129
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717f9bf917895654fa45b457d4adc299
+      internalID: 3002130156608811367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 404
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737ab677c279b0942a4184255b4e5b6a
+      internalID: 2097790698746160618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 190
+        width: 112
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0fd0d53015f34094ee64a5d30f54d
+      internalID: 917563867120692654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 187
+        width: 95
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a63707648c864abb80f0daff17b99
+      internalID: -2728055910707386969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 192
+        width: 86
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f24ce1bedea84e91c063f68d66763
+      internalID: 3571234756329709559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 310
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f584775dfa3d4188392dd91f1ad82
+      internalID: -6225840635676661958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 190
+        width: 151
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fff933418608e4280ca2b9de089e68
+      internalID: 6301209820672155867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 195
+        width: 154
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2320d7ac611c849b74d766d1f3ff2f
+      internalID: -6828438638383907143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 200
+        width: 141
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678af60dab6a1d74196af6acc92f76fd
+      internalID: 1450090346852457796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_BH_Run_Spritesheet_Resized_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 192
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b46c6baa37354da744a0a2ff0e79d
+      internalID: -8898442505552096723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a30e93f26a3c2e449eef8211159081d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

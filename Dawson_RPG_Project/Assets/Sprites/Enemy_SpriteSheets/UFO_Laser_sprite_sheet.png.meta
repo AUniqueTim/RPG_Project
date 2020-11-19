@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 8833b325b636e7b4db17abbafcb5b0db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1213101942851775543
+    second: UFO_Laser_sprite_sheet_0
+  - first:
+      213: -8112515315306808167
+    second: UFO_Laser_sprite_sheet_1
+  - first:
+      213: -3991675128193728153
+    second: UFO_Laser_sprite_sheet_2
+  - first:
+      213: 5221860928470270434
+    second: UFO_Laser_sprite_sheet_3
+  - first:
+      213: 512863416197611331
+    second: UFO_Laser_sprite_sheet_4
+  - first:
+      213: -3525614075769629793
+    second: UFO_Laser_sprite_sheet_5
+  - first:
+      213: 1723674495788863866
+    second: UFO_Laser_sprite_sheet_6
+  - first:
+      213: -4481240005405443928
+    second: UFO_Laser_sprite_sheet_7
+  - first:
+      213: -2970215881878209503
+    second: UFO_Laser_sprite_sheet_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b87465834cf3347bc3e6d1b867c786
+      internalID: 1213101942851775543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2112
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1889315222c07aa40aba428589ea1162
+      internalID: -8112515315306808167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2112
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ba524d333efb4782ae3818c0576b6
+      internalID: -3991675128193728153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f29d436d518e64aa2a3a1b5b2850f9
+      internalID: 5221860928470270434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1344
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbff07ae037fd84e95d89d6f403ae4b
+      internalID: 512863416197611331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1344
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8a7f3b110dbc5439f1df6f545cd72f
+      internalID: -3525614075769629793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d67fa95f50be847961122dbd0bc180
+      internalID: 1723674495788863866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59544c1d16892b14e8f9ee5ded918ebe
+      internalID: -4481240005405443928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO_Laser_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 576
+        width: 1280
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cadd51304fdd1540b52f95eeef3f73a
+      internalID: -2970215881878209503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa4a76bae0cdeb4458cc7bdf0d504faa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
