@@ -119,7 +119,7 @@ public class PlayerMovement : MonoBehaviour
         ResetStates();
         
         bHAnimator.SetBool("firedBullet", true);
-
+        flipX = false;
         Rigidbody2D bulletClone = Instantiate(bulletPrefab, bulletFirePoint, false);
         bulletClone.AddForce(Vector2.right * bulletSpeed);
     }
@@ -128,7 +128,7 @@ public class PlayerMovement : MonoBehaviour
         ResetStates();
 
         bHAnimator.SetBool("firedBullet", true);
-
+        flipX = true;
         Rigidbody2D bulletClone = Instantiate(bulletPrefab, bulletFirePointLeft, false);
         bulletClone.AddForce(Vector2.left * bulletSpeed);
 
