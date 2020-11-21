@@ -1,7 +1,331 @@
 fileFormatVersion: 2
 guid: 871aa0d6af0dc8a45a69563d9caffbe2
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3074734226306544816
+    second: Background-Scene-1---Military-Base-spritesheet_0
+  - first:
+      213: -6626292263757555847
+    second: Background-Scene-1---Military-Base-spritesheet_1
+  - first:
+      213: -7889740000036132125
+    second: Background-Scene-1---Military-Base-spritesheet_2
+  - first:
+      213: 538297311828175456
+    second: Background-Scene-1---Military-Base-spritesheet_3
+  - first:
+      213: -6872537700945949572
+    second: Background-Scene-1---Military-Base-spritesheet_4
+  - first:
+      213: 1421308333834770179
+    second: Background-Scene-1---Military-Base-spritesheet_5
+  - first:
+      213: 5448911263674773900
+    second: Background-Scene-1---Military-Base-spritesheet_6
+  - first:
+      213: 2703324402106520271
+    second: Background-Scene-1---Military-Base-spritesheet_7
+  - first:
+      213: 6082374911570780904
+    second: Background-Scene-1---Military-Base-spritesheet_8
+  - first:
+      213: -7139838192352172352
+    second: Background-Scene-1---Military-Base-spritesheet_9
+  - first:
+      213: 497292729633076881
+    second: Background-Scene-1---Military-Base-spritesheet_10
+  - first:
+      213: 604671827481027839
+    second: Background-Scene-1---Military-Base-spritesheet_11
+  - first:
+      213: 3801595745866436639
+    second: Background-Scene-1---Military-Base-spritesheet_12
+  - first:
+      213: 5801772074737058166
+    second: Background-Scene-1---Military-Base-spritesheet_13
+  - first:
+      213: 1302710866815543215
+    second: Background-Scene-1---Military-Base-spritesheet_14
+  - first:
+      213: -2776530265630417888
+    second: Background-Scene-1---Military-Base-spritesheet_15
+  - first:
+      213: -4523333878856982264
+    second: Background-Scene-1---Military-Base-spritesheet_16
+  - first:
+      213: 8303230656480387726
+    second: Background-Scene-1---Military-Base-spritesheet_17
+  - first:
+      213: 6881539526992198538
+    second: Background-Scene-1---Military-Base-spritesheet_18
+  - first:
+      213: -953351078191360606
+    second: Background-Scene-1---Military-Base-spritesheet_19
+  - first:
+      213: -8828237457544052325
+    second: Background-Scene-1---Military-Base-spritesheet_20
+  - first:
+      213: 5117097733850567540
+    second: Background-Scene-1---Military-Base-spritesheet_21
+  - first:
+      213: 1239267110403392487
+    second: Background-Scene-1---Military-Base-spritesheet_22
+  - first:
+      213: 2375320985013526461
+    second: Background-Scene-1---Military-Base-spritesheet_23
+  - first:
+      213: 2293998751627684080
+    second: Background-Scene-1---Military-Base-spritesheet_24
+  - first:
+      213: 1997132157304357744
+    second: Background-Scene-1---Military-Base-spritesheet_25
+  - first:
+      213: -4222298849900375247
+    second: Background-Scene-1---Military-Base-spritesheet_26
+  - first:
+      213: -9162600173904900771
+    second: Background-Scene-1---Military-Base-spritesheet_27
+  - first:
+      213: -5783795730535367429
+    second: Background-Scene-1---Military-Base-spritesheet_28
+  - first:
+      213: 4458114633025860228
+    second: Background-Scene-1---Military-Base-spritesheet_29
+  - first:
+      213: 4920130611247113459
+    second: Background-Scene-1---Military-Base-spritesheet_30
+  - first:
+      213: -2867283336282628660
+    second: Background-Scene-1---Military-Base-spritesheet_31
+  - first:
+      213: 3984415082607648059
+    second: Background-Scene-1---Military-Base-spritesheet_32
+  - first:
+      213: -3800440137906442980
+    second: Background-Scene-1---Military-Base-spritesheet_33
+  - first:
+      213: 7660890174066439031
+    second: Background-Scene-1---Military-Base-spritesheet_34
+  - first:
+      213: 1698336048475225548
+    second: Background-Scene-1---Military-Base-spritesheet_35
+  - first:
+      213: -9182468986350319768
+    second: Background-Scene-1---Military-Base-spritesheet_36
+  - first:
+      213: 3668774817048736293
+    second: Background-Scene-1---Military-Base-spritesheet_37
+  - first:
+      213: 8023425476907057763
+    second: Background-Scene-1---Military-Base-spritesheet_38
+  - first:
+      213: 7147742117878675938
+    second: Background-Scene-1---Military-Base-spritesheet_39
+  - first:
+      213: 4899262780006948635
+    second: Background-Scene-1---Military-Base-spritesheet_40
+  - first:
+      213: 3635016448609127128
+    second: Background-Scene-1---Military-Base-spritesheet_41
+  - first:
+      213: -6516920399692692433
+    second: Background-Scene-1---Military-Base-spritesheet_42
+  - first:
+      213: -4183872788357508729
+    second: Background-Scene-1---Military-Base-spritesheet_43
+  - first:
+      213: 714070069993148509
+    second: Background-Scene-1---Military-Base-spritesheet_44
+  - first:
+      213: 1691756782154225387
+    second: Background-Scene-1---Military-Base-spritesheet_45
+  - first:
+      213: 3950438797561880769
+    second: Background-Scene-1---Military-Base-spritesheet_46
+  - first:
+      213: 6188233260399788400
+    second: Background-Scene-1---Military-Base-spritesheet_47
+  - first:
+      213: -5889233717118355071
+    second: Background-Scene-1---Military-Base-spritesheet_48
+  - first:
+      213: 8264589560954060997
+    second: Background-Scene-1---Military-Base-spritesheet_49
+  - first:
+      213: 5841395015523010763
+    second: Background-Scene-1---Military-Base-spritesheet_50
+  - first:
+      213: -5112289949359459707
+    second: Background-Scene-1---Military-Base-spritesheet_51
+  - first:
+      213: -2256666302410439881
+    second: Background-Scene-1---Military-Base-spritesheet_52
+  - first:
+      213: -584708196915291930
+    second: Background-Scene-1---Military-Base-spritesheet_53
+  - first:
+      213: 931840490748753324
+    second: Background-Scene-1---Military-Base-spritesheet_54
+  - first:
+      213: 7007215377196554325
+    second: Background-Scene-1---Military-Base-spritesheet_55
+  - first:
+      213: 7463348364450780312
+    second: Background-Scene-1---Military-Base-spritesheet_56
+  - first:
+      213: -437124541168676640
+    second: Background-Scene-1---Military-Base-spritesheet_57
+  - first:
+      213: -6693279869794528160
+    second: Background-Scene-1---Military-Base-spritesheet_58
+  - first:
+      213: 2495184639617397118
+    second: Background-Scene-1---Military-Base-spritesheet_59
+  - first:
+      213: -4831491036286537066
+    second: Background-Scene-1---Military-Base-spritesheet_60
+  - first:
+      213: 204202310182168276
+    second: Background-Scene-1---Military-Base-spritesheet_61
+  - first:
+      213: -1901730900330542726
+    second: Background-Scene-1---Military-Base-spritesheet_62
+  - first:
+      213: 8431492736156204876
+    second: Background-Scene-1---Military-Base-spritesheet_63
+  - first:
+      213: -8204909327686617632
+    second: Background-Scene-1---Military-Base-spritesheet_64
+  - first:
+      213: 352659672266924240
+    second: Background-Scene-1---Military-Base-spritesheet_65
+  - first:
+      213: -1329056714785781302
+    second: Background-Scene-1---Military-Base-spritesheet_66
+  - first:
+      213: 4479007508613791737
+    second: Background-Scene-1---Military-Base-spritesheet_67
+  - first:
+      213: -1556783211275130517
+    second: Background-Scene-1---Military-Base-spritesheet_68
+  - first:
+      213: 8109563141788982364
+    second: Background-Scene-1---Military-Base-spritesheet_69
+  - first:
+      213: 709588501447756403
+    second: Background-Scene-1---Military-Base-spritesheet_70
+  - first:
+      213: 1043409624034602517
+    second: Background-Scene-1---Military-Base-spritesheet_71
+  - first:
+      213: -7695905098851550582
+    second: Background-Scene-1---Military-Base-spritesheet_72
+  - first:
+      213: 3321409405889934023
+    second: Background-Scene-1---Military-Base-spritesheet_73
+  - first:
+      213: 319631869597934532
+    second: Background-Scene-1---Military-Base-spritesheet_74
+  - first:
+      213: 5531992240958649658
+    second: Background-Scene-1---Military-Base-spritesheet_75
+  - first:
+      213: -4893232403545558966
+    second: Background-Scene-1---Military-Base-spritesheet_76
+  - first:
+      213: 4256575677299283963
+    second: Background-Scene-1---Military-Base-spritesheet_77
+  - first:
+      213: 1761120412292660931
+    second: Background-Scene-1---Military-Base-spritesheet_78
+  - first:
+      213: -2601476458052580928
+    second: Background-Scene-1---Military-Base-spritesheet_79
+  - first:
+      213: -4878237269342463783
+    second: Background-Scene-1---Military-Base-spritesheet_80
+  - first:
+      213: -2945508498550437285
+    second: Background-Scene-1---Military-Base-spritesheet_81
+  - first:
+      213: 6305651952262980427
+    second: Background-Scene-1---Military-Base-spritesheet_82
+  - first:
+      213: -1513135057180689999
+    second: Background-Scene-1---Military-Base-spritesheet_83
+  - first:
+      213: 8415753020501222140
+    second: Background-Scene-1---Military-Base-spritesheet_84
+  - first:
+      213: -2714628889462386485
+    second: Background-Scene-1---Military-Base-spritesheet_85
+  - first:
+      213: -4890971646578875108
+    second: Background-Scene-1---Military-Base-spritesheet_86
+  - first:
+      213: 7983872813332994334
+    second: Background-Scene-1---Military-Base-spritesheet_87
+  - first:
+      213: 6606907102443210700
+    second: Background-Scene-1---Military-Base-spritesheet_88
+  - first:
+      213: 6549164335513856821
+    second: Background-Scene-1---Military-Base-spritesheet_89
+  - first:
+      213: 6177518122870112095
+    second: Background-Scene-1---Military-Base-spritesheet_90
+  - first:
+      213: 955161566400592252
+    second: Background-Scene-1---Military-Base-spritesheet_91
+  - first:
+      213: -7963652160810455168
+    second: Background-Scene-1---Military-Base-spritesheet_92
+  - first:
+      213: -6321227780087144565
+    second: Background-Scene-1---Military-Base-spritesheet_93
+  - first:
+      213: 7116357603764763282
+    second: Background-Scene-1---Military-Base-spritesheet_94
+  - first:
+      213: -7068502775175709822
+    second: Background-Scene-1---Military-Base-spritesheet_95
+  - first:
+      213: 5906095631433161240
+    second: Background-Scene-1---Military-Base-spritesheet_96
+  - first:
+      213: -8932858330697150605
+    second: Background-Scene-1---Military-Base-spritesheet_97
+  - first:
+      213: 2666224921242329581
+    second: Background-Scene-1---Military-Base-spritesheet_98
+  - first:
+      213: 4834119692844515403
+    second: Background-Scene-1---Military-Base-spritesheet_99
+  - first:
+      213: -5737972242442123522
+    second: Background-Scene-1---Military-Base-spritesheet_100
+  - first:
+      213: -8235545713202547341
+    second: Background-Scene-1---Military-Base-spritesheet_101
+  - first:
+      213: 6642038771824847417
+    second: Background-Scene-1---Military-Base-spritesheet_102
+  - first:
+      213: 3177368598075264987
+    second: Background-Scene-1---Military-Base-spritesheet_103
+  - first:
+      213: -6561877784071157298
+    second: Background-Scene-1---Military-Base-spritesheet_104
+  - first:
+      213: -7931658422670274393
+    second: Background-Scene-1---Military-Base-spritesheet_105
+  - first:
+      213: 6361244196306169251
+    second: Background-Scene-1---Military-Base-spritesheet_106
+  - first:
+      213: -8659397201636278576
+    second: Background-Scene-1---Military-Base-spritesheet_107
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -23,6 +347,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -40,12 +365,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1280
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -57,6 +382,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
@@ -70,9 +396,33 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -85,7 +435,2275 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b434603895455d0800000000000000
+      internalID: -3074734226306544816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977dfc03b4eaa04a0800000000000000
+      internalID: -6626292263757555847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae7a78543028290800000000000000
+      internalID: -7889740000036132125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ae0179d8a687700800000000000000
+      internalID: 538297311828175456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c03ad8f57df90a0800000000000000
+      internalID: -6872537700945949572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071682366089b310800000000000000
+      internalID: 1421308333834770179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b5fbbceb6e9b40800000000000000
+      internalID: 5448911263674773900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2543c8833248520800000000000000
+      internalID: 2703324402106520271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2acea91cfe86450800000000000000
+      internalID: 6082374911570780904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e4171ef23aec90800000000000000
+      internalID: -7139838192352172352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f9235a1db6e600800000000000000
+      internalID: 497292729633076881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff461bac2d9346800800000000000000
+      internalID: 604671827481027839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10510c603bf1c430800000000000000
+      internalID: 3801595745866436639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671cb7e76f8048050800000000000000
+      internalID: 5801772074737058166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e49d91a8241210800000000000000
+      internalID: 1302710866815543215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c5af02f68c779d0800000000000000
+      internalID: -2776530265630417888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016d368dc3e931c0800000000000000
+      internalID: -4523333878856982264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a5a72a400b3370800000000000000
+      internalID: 8303230656480387726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bfd266db3208f50800000000000000
+      internalID: 6881539526992198538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a51b26de3405c2f0800000000000000
+      internalID: -953351078191360606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b910a4e6ecccb7580800000000000000
+      internalID: -8828237457544052325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739e130745930740800000000000000
+      internalID: 5117097733850567540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e34b69fed2c23110800000000000000
+      internalID: 1239267110403392487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1343d9d5d6f020800000000000000
+      internalID: 2375320985013526461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f825f1e5bbe5df10800000000000000
+      internalID: 2293998751627684080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c2a5ad1d37bb10800000000000000
+      internalID: 1997132157304357744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133d52411916765c0800000000000000
+      internalID: -4222298849900375247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d4777ffa7e7d080800000000000000
+      internalID: -9162600173904900771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb40c4d64dbbfa0800000000000000
+      internalID: -5783795730535367429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4823a7d73a76edd30800000000000000
+      internalID: 4458114633025860228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e8e319b0d74440800000000000000
+      internalID: 4920130611247113459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd1a764ffc5538d0800000000000000
+      internalID: -2867283336282628660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9984486c7b4730800000000000000
+      internalID: 3984415082607648059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d23f584df124bc0800000000000000
+      internalID: -3800440137906442980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b2803603f05a60800000000000000
+      internalID: 7660890174066439031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd3b9e43a3b19710800000000000000
+      internalID: 1698336048475225548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674c839b11519080800000000000000
+      internalID: -9182468986350319768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522b613124b1ae230800000000000000
+      internalID: 3668774817048736293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624dd816fee85f60800000000000000
+      internalID: 8023425476907057763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b14af591e13360800000000000000
+      internalID: 7147742117878675938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f5b9f7a8dadf340800000000000000
+      internalID: 4899262780006948635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da8c0c633c227230800000000000000
+      internalID: 3635016448609127128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2402d2bc6f3f85a0800000000000000
+      internalID: -6516920399692692433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7811788bdd5efe5c0800000000000000
+      internalID: -4183872788357508729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501ea202f2e8e900800000000000000
+      internalID: 714070069993148509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be619ae74d35a7710800000000000000
+      internalID: 1691756782154225387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e893f727c2d630800000000000000
+      internalID: 3950438797561880769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07103691d5501e550800000000000000
+      internalID: 6188233260399788400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18938e3032d354ea0800000000000000
+      internalID: -5889233717118355071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c081130b68b1b270800000000000000
+      internalID: 8264589560954060997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc88cfc41ddc01150800000000000000
+      internalID: 5841395015523010763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58231ab806f7d09b0800000000000000
+      internalID: -5112289949359459707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334b3c44f5bea0e0800000000000000
+      internalID: -2256666302410439881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8da992ef2b2e7f0800000000000000
+      internalID: -584708196915291930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b76e3dff8eec00800000000000000
+      internalID: 931840490748753324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558947e7241ae3160800000000000000
+      internalID: 7007215377196554325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d4128bc3239760800000000000000
+      internalID: 7463348364450780312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e01909bb850fe9f0800000000000000
+      internalID: -437124541168676640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064df92cb61bc13a0800000000000000
+      internalID: -6693279869794528160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f76da53da0a220800000000000000
+      internalID: 2495184639617397118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69238a6308813fcb0800000000000000
+      internalID: -4831491036286537066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6e8b05be875d200800000000000000
+      internalID: 204202310182168276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a790a6b62d1bb95e0800000000000000
+      internalID: -1901730900330542726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f70e8b8fda20570800000000000000
+      internalID: 8431492736156204876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e533fc107e422e80800000000000000
+      internalID: -8204909327686617632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0631c7a16e4e400800000000000000
+      internalID: 352659672266924240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac988d4a5fd3e8de0800000000000000
+      internalID: -1329056714785781302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7b392991a82e30800000000000000
+      internalID: 4479007508613791737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6967a3eae1356ae0800000000000000
+      internalID: -1556783211275130517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cdeed06b4fa8070800000000000000
+      internalID: 8109563141788982364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ace758bf6f8d900800000000000000
+      internalID: 709588501447756403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6ecb568fea7e00800000000000000
+      internalID: 1043409624034602517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af5d55617a23590800000000000000
+      internalID: -7695905098851550582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2f5bfc144081e20800000000000000
+      internalID: 3321409405889934023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3674eed7f8f6400800000000000000
+      internalID: 319631869597934532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35be8622a595cc40800000000000000
+      internalID: 5531992240958649658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407c3fed0fb71cb0800000000000000
+      internalID: -4893232403545558966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7ddf4b605621b30800000000000000
+      internalID: 4256575677299283963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb4652fa1c07810800000000000000
+      internalID: 1761120412292660931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c90c32d1f2b5ebd0800000000000000
+      internalID: -2601476458052580928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d855ceac050d4cb0800000000000000
+      internalID: -4878237269342463783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac10560a37f17d0800000000000000
+      internalID: -2945508498550437285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4322e3ba0d228750800000000000000
+      internalID: 6305651952262980427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9fd83bea3400be0800000000000000
+      internalID: -1513135057180689999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2656898c2cac470800000000000000
+      internalID: 8415753020501222140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0d4926863b35ad0800000000000000
+      internalID: -2714628889462386485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15a82f6337cf1cb0800000000000000
+      internalID: -4890971646578875108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199c9af50a6cce60800000000000000
+      internalID: 7983872813332994334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70229310370bb50800000000000000
+      internalID: 6606907102443210700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be5f1a34e43ea50800000000000000
+      internalID: 6549164335513856821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff53bb004fab550800000000000000
+      internalID: 6177518122870112095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b96c426a614d00800000000000000
+      internalID: 955161566400592252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fee109d8c6b7190800000000000000
+      internalID: -7963652160810455168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f139743dc7648a0800000000000000
+      internalID: -6321227780087144565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a7c0b598162c260800000000000000
+      internalID: 7116357603764763282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bf9cf2d22a7ed90800000000000000
+      internalID: -7068502775175709822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5f095faaa6f150800000000000000
+      internalID: 5906095631433161240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f48e13dac180480800000000000000
+      internalID: -8932858330697150605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de161f98075500520800000000000000
+      internalID: 2666224921242329581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c7b59f3e361340800000000000000
+      internalID: 4834119692844515403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68f2685a0ae50b0800000000000000
+      internalID: -5737972242442123522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3753211cec675bd80800000000000000
+      internalID: -8235545713202547341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aedfa62134d2c50800000000000000
+      internalID: 6642038771824847417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc1c0d7e7481c20800000000000000
+      internalID: 3177368598075264987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec949e4fbe68fe4a0800000000000000
+      internalID: -6561877784071157298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0d00530b61de190800000000000000
+      internalID: -7931658422670274393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad285aa4eda74850800000000000000
+      internalID: 6361244196306169251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Scene-1---Military-Base-spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de3573ef14a3d780800000000000000
+      internalID: -8659397201636278576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
