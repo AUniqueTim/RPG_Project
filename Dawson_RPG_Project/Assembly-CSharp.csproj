@@ -103,6 +103,9 @@
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\TriggerDialogues.cs" />
     <Compile Include="Assets\Toolbox.cs" />
+    <Compile Include="Assets\DuctTrigger.cs" />
+    <Compile Include="Assets\SceneManager.cs" />
+    <Compile Include="Assets\Scripts\WorldMapPlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -1,7 +1,247 @@
 fileFormatVersion: 2
 guid: 05527f77588aea542a65a0aadc7c8a2b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6358162069581082589
+    second: mountains-city-bg-2trains-spritesheet_0
+  - first:
+      213: 5625638926236284011
+    second: mountains-city-bg-2trains-spritesheet_1
+  - first:
+      213: -3483451640189711365
+    second: mountains-city-bg-2trains-spritesheet_2
+  - first:
+      213: 1534479872531943158
+    second: mountains-city-bg-2trains-spritesheet_3
+  - first:
+      213: -5663520368962240470
+    second: mountains-city-bg-2trains-spritesheet_4
+  - first:
+      213: -5579500853893814324
+    second: mountains-city-bg-2trains-spritesheet_5
+  - first:
+      213: -4162917686592523754
+    second: mountains-city-bg-2trains-spritesheet_6
+  - first:
+      213: -7069730810966385607
+    second: mountains-city-bg-2trains-spritesheet_7
+  - first:
+      213: 8790768995571847904
+    second: mountains-city-bg-2trains-spritesheet_8
+  - first:
+      213: -7669568087039044686
+    second: mountains-city-bg-2trains-spritesheet_9
+  - first:
+      213: -6388889854120859980
+    second: mountains-city-bg-2trains-spritesheet_10
+  - first:
+      213: 6623757306175577326
+    second: mountains-city-bg-2trains-spritesheet_11
+  - first:
+      213: 8873921193243232239
+    second: mountains-city-bg-2trains-spritesheet_12
+  - first:
+      213: 6856693912407864680
+    second: mountains-city-bg-2trains-spritesheet_13
+  - first:
+      213: 1822388107559138444
+    second: mountains-city-bg-2trains-spritesheet_14
+  - first:
+      213: 1554079854945273804
+    second: mountains-city-bg-2trains-spritesheet_15
+  - first:
+      213: -4714104423025668031
+    second: mountains-city-bg-2trains-spritesheet_16
+  - first:
+      213: 1297269323898858645
+    second: mountains-city-bg-2trains-spritesheet_17
+  - first:
+      213: 5199585368718956001
+    second: mountains-city-bg-2trains-spritesheet_18
+  - first:
+      213: 5232120471849970303
+    second: mountains-city-bg-2trains-spritesheet_19
+  - first:
+      213: 8374908601050252157
+    second: mountains-city-bg-2trains-spritesheet_20
+  - first:
+      213: -7916273544704336981
+    second: mountains-city-bg-2trains-spritesheet_21
+  - first:
+      213: -6543763682971001066
+    second: mountains-city-bg-2trains-spritesheet_22
+  - first:
+      213: 8411361018379898843
+    second: mountains-city-bg-2trains-spritesheet_23
+  - first:
+      213: 3345553438718903459
+    second: mountains-city-bg-2trains-spritesheet_24
+  - first:
+      213: -5780092527681791514
+    second: mountains-city-bg-2trains-spritesheet_25
+  - first:
+      213: -2125571136313177192
+    second: mountains-city-bg-2trains-spritesheet_26
+  - first:
+      213: -4278092672817233120
+    second: mountains-city-bg-2trains-spritesheet_27
+  - first:
+      213: 8713376689029593141
+    second: mountains-city-bg-2trains-spritesheet_28
+  - first:
+      213: 7046012520422092737
+    second: mountains-city-bg-2trains-spritesheet_29
+  - first:
+      213: 915499168729938473
+    second: mountains-city-bg-2trains-spritesheet_30
+  - first:
+      213: -8320725617166336654
+    second: mountains-city-bg-2trains-spritesheet_31
+  - first:
+      213: -6329715515156432554
+    second: mountains-city-bg-2trains-spritesheet_32
+  - first:
+      213: -8527565947237456473
+    second: mountains-city-bg-2trains-spritesheet_33
+  - first:
+      213: 8708195048156310267
+    second: mountains-city-bg-2trains-spritesheet_34
+  - first:
+      213: 8240807121272367397
+    second: mountains-city-bg-2trains-spritesheet_35
+  - first:
+      213: 4458772362216302637
+    second: mountains-city-bg-2trains-spritesheet_36
+  - first:
+      213: -6889916823516867767
+    second: mountains-city-bg-2trains-spritesheet_37
+  - first:
+      213: -837056917108478612
+    second: mountains-city-bg-2trains-spritesheet_38
+  - first:
+      213: -1892669050262034053
+    second: mountains-city-bg-2trains-spritesheet_39
+  - first:
+      213: -2783457763851135199
+    second: mountains-city-bg-2trains-spritesheet_40
+  - first:
+      213: -5447900309255869393
+    second: mountains-city-bg-2trains-spritesheet_41
+  - first:
+      213: -1271948065752871988
+    second: mountains-city-bg-2trains-spritesheet_42
+  - first:
+      213: 5734265531856157146
+    second: mountains-city-bg-2trains-spritesheet_43
+  - first:
+      213: 7969542718368185786
+    second: mountains-city-bg-2trains-spritesheet_44
+  - first:
+      213: -3471512881799541643
+    second: mountains-city-bg-2trains-spritesheet_45
+  - first:
+      213: 5044662519652046795
+    second: mountains-city-bg-2trains-spritesheet_46
+  - first:
+      213: 355389616803448278
+    second: mountains-city-bg-2trains-spritesheet_47
+  - first:
+      213: 259430100949317083
+    second: mountains-city-bg-2trains-spritesheet_48
+  - first:
+      213: -3305435438622181059
+    second: mountains-city-bg-2trains-spritesheet_49
+  - first:
+      213: -6628138533297668053
+    second: mountains-city-bg-2trains-spritesheet_50
+  - first:
+      213: 5495383821785076365
+    second: mountains-city-bg-2trains-spritesheet_51
+  - first:
+      213: -3613815046252244966
+    second: mountains-city-bg-2trains-spritesheet_52
+  - first:
+      213: 4698622408748681884
+    second: mountains-city-bg-2trains-spritesheet_53
+  - first:
+      213: -403914517779660352
+    second: mountains-city-bg-2trains-spritesheet_54
+  - first:
+      213: -8486461803683127232
+    second: mountains-city-bg-2trains-spritesheet_55
+  - first:
+      213: -1795732111674656414
+    second: mountains-city-bg-2trains-spritesheet_56
+  - first:
+      213: -5082110354115664223
+    second: mountains-city-bg-2trains-spritesheet_57
+  - first:
+      213: -3125138583781862810
+    second: mountains-city-bg-2trains-spritesheet_58
+  - first:
+      213: 9207943235699608177
+    second: mountains-city-bg-2trains-spritesheet_59
+  - first:
+      213: 1152898900687698654
+    second: mountains-city-bg-2trains-spritesheet_60
+  - first:
+      213: -7402695710381254144
+    second: mountains-city-bg-2trains-spritesheet_61
+  - first:
+      213: -273074755524529417
+    second: mountains-city-bg-2trains-spritesheet_62
+  - first:
+      213: 5821565941073641464
+    second: mountains-city-bg-2trains-spritesheet_63
+  - first:
+      213: -1766326473021913559
+    second: mountains-city-bg-2trains-spritesheet_64
+  - first:
+      213: -2263992065769663221
+    second: mountains-city-bg-2trains-spritesheet_65
+  - first:
+      213: 6607580759281027238
+    second: mountains-city-bg-2trains-spritesheet_66
+  - first:
+      213: 4750560627867422770
+    second: mountains-city-bg-2trains-spritesheet_67
+  - first:
+      213: 1501624634281959535
+    second: mountains-city-bg-2trains-spritesheet_68
+  - first:
+      213: 1721613541278766821
+    second: mountains-city-bg-2trains-spritesheet_69
+  - first:
+      213: 6165784692801708782
+    second: mountains-city-bg-2trains-spritesheet_70
+  - first:
+      213: 8836807831251750602
+    second: mountains-city-bg-2trains-spritesheet_71
+  - first:
+      213: 7694196294734187334
+    second: mountains-city-bg-2trains-spritesheet_72
+  - first:
+      213: -4901735629712007503
+    second: mountains-city-bg-2trains-spritesheet_73
+  - first:
+      213: -5677496815389786107
+    second: mountains-city-bg-2trains-spritesheet_74
+  - first:
+      213: -5348667146691654117
+    second: mountains-city-bg-2trains-spritesheet_75
+  - first:
+      213: -256749403373422360
+    second: mountains-city-bg-2trains-spritesheet_76
+  - first:
+      213: -7824677188370168632
+    second: mountains-city-bg-2trains-spritesheet_77
+  - first:
+      213: 797985582077731748
+    second: mountains-city-bg-2trains-spritesheet_78
+  - first:
+      213: -4654227912687435707
+    second: mountains-city-bg-2trains-spritesheet_79
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -23,6 +263,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -40,12 +281,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 180
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -57,6 +298,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
@@ -70,9 +312,33 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -85,7 +351,1519 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2ebd17babc3850800000000000000
+      internalID: 6358162069581082589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b647ce82cc8421e40800000000000000
+      internalID: 5625638926236284011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8d3a703b48afc0800000000000000
+      internalID: -3483451640189711365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fec04560519b4510800000000000000
+      internalID: 1534479872531943158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2001d52b322761b0800000000000000
+      internalID: -5663520368962240470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ababe881a192b0800000000000000
+      internalID: -5579500853893814324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612367d8b685a36c0800000000000000
+      internalID: -4162917686592523754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 6080
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd6b2d84543ed90800000000000000
+      internalID: -7069730810966385607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d39373d51ff970800000000000000
+      internalID: 8790768995571847904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b39d5fb578309590800000000000000
+      internalID: -7669568087039044686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b66708078a1657a0800000000000000
+      internalID: -6388889854120859980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec5ef00d205ceb50800000000000000
+      internalID: 6623757306175577326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c2182f40862b70800000000000000
+      internalID: 8873921193243232239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86577a6f8ced72f50800000000000000
+      internalID: 6856693912407864680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8475f1145c6a4910800000000000000
+      internalID: 1822388107559138444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 5320
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78a9ae463319510800000000000000
+      internalID: 1554079854945273804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140157fe003249eb0800000000000000
+      internalID: -4714104423025668031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca00da393d00210800000000000000
+      internalID: 1297269323898858645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5dfc12853a82840800000000000000
+      internalID: 5199585368718956001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aaaa229d93c9840800000000000000
+      internalID: 5232120471849970303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c6ff1007a93470800000000000000
+      internalID: 8374908601050252157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab531f372fb32290800000000000000
+      internalID: -7916273544704336981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5966c991ef25a0800000000000000
+      internalID: -6543763682971001066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 4560
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0a1ae7482bb470800000000000000
+      internalID: 8411361018379898843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a44de3802bcd6e20800000000000000
+      internalID: 3345553438718903459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e913a6687cf8cfa0800000000000000
+      internalID: -5780092527681791514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bca3330547082e0800000000000000
+      internalID: -2125571136313177192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230780616921a4c0800000000000000
+      internalID: -4278092672817233120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53837c7eee12ce870800000000000000
+      internalID: 8713376689029593141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa6b25e0778c160800000000000000
+      internalID: 7046012520422092737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3058b4a184bc00800000000000000
+      internalID: 915499168729938473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 3800
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dbe43e228d68c80800000000000000
+      internalID: -8320725617166336654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65972d576455828a0800000000000000
+      internalID: -6329715515156432554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a134b3fff7a980800000000000000
+      internalID: -8527565947237456473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa2c202249b9d870800000000000000
+      internalID: 8708195048156310267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529e2f54a6a3d5270800000000000000
+      internalID: 8240807121272367397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286b3007ddb0ed30800000000000000
+      internalID: 4458772362216302637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9431a4247291260a0800000000000000
+      internalID: -6889916823516867767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d27f63b2d2264f0800000000000000
+      internalID: -837056917108478612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 3040
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7961cdc683ebb5e0800000000000000
+      internalID: -1892669050262034053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127995249eb2f59d0800000000000000
+      internalID: -2783457763851135199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c201f688b2564b0800000000000000
+      internalID: -5447900309255869393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0e0829f1295ee0800000000000000
+      internalID: -1271948065752871988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97d0aae14349f40800000000000000
+      internalID: 5734265531856157146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf2aeb0e0899e60800000000000000
+      internalID: 7969542718368185786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c45274d65b2dfc0800000000000000
+      internalID: -3471512881799541643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7569775dd320640800000000000000
+      internalID: 5044662519652046795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 2280
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58e6a39f89ee400800000000000000
+      internalID: 355389616803448278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b0236d4ea99300800000000000000
+      internalID: 259430100949317083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ffe44bfbb022d0800000000000000
+      internalID: -3305435438622181059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c6b01f1f1404a0800000000000000
+      internalID: -6628138533297668053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829de95876834c40800000000000000
+      internalID: 5495383821785076365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a105c2cbc5629ddc0800000000000000
+      internalID: -3613815046252244966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac727bf2cd43140800000000000000
+      internalID: 4698622408748681884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1ce18d2e1056af0800000000000000
+      internalID: -403914517779660352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 1520
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040eb87e3f70a3a80800000000000000
+      internalID: -8486461803683127232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269bedb98274417e0800000000000000
+      internalID: -1795732111674656414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e9912f87b879b0800000000000000
+      internalID: -5082110354115664223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66290d7040741a4d0800000000000000
+      internalID: -3125138583781862810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a06db469f29cf70800000000000000
+      internalID: 9207943235699608177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edabd6d117befff00800000000000000
+      internalID: 1152898900687698654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ada6af877544990800000000000000
+      internalID: -7402695710381254144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f275d7e4f7d53cf0800000000000000
+      internalID: -273074755524529417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 760
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff432216b5ac050800000000000000
+      internalID: 5821565941073641464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92609226e6fbc77e0800000000000000
+      internalID: -1766326473021913559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b051f79163fa490e0800000000000000
+      internalID: -2263992065769663221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c6ad21b7d2bb50800000000000000
+      internalID: 6607580759281027238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309ef3b8b16de140800000000000000
+      internalID: 4750560627867422770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f602a5026a7d6d410800000000000000
+      internalID: 1501624634281959535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e65c60f46664e710800000000000000
+      internalID: 1721613541278766821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2acf7a284419550800000000000000
+      internalID: 6165784692801708782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountains-city-bg-2trains-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 1280
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace862237e5a2aa70800000000000000
+      internalID: 8836807831251750602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
