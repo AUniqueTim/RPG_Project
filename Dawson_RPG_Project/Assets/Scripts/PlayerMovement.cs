@@ -107,9 +107,9 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.W)) { MoveForward(); gameObject.transform.Translate(Vector3.forward * playerSpeed * Time.deltaTime); runState = "posZAxis"; };
         if (Input.GetKey(KeyCode.S)) { MoveBackward(); gameObject.transform.Translate(Vector3.back * playerSpeed * Time.deltaTime); runState = "negZAxis"; };
 
-        if (Input.GetMouseButtonDown(0) && Input.GetAxisRaw("Horizontal") > 0) { FireBullet(); runState = "firedBullet"; } // Bullet Fire Animation Faces Wrong Direction.
+        if (Input.GetMouseButtonDown(0) && Input.GetAxisRaw("Horizontal") > 0) { FireBullet(); runState = "firedBullet"; } 
         else if (Input.GetMouseButtonDown(0) && Input.GetAxisRaw("Horizontal") < 0) { FireBulletLeft(); runState = "firedbullet"; }
-        else if (Input.GetMouseButtonDown(0) && Input.GetAxisRaw("Horizontal") == 0) { flipX = true; FireBullet(); runState = "firedBullet"; }
+        else if (Input.GetMouseButtonDown(0) && Input.GetAxisRaw("Horizontal") == 0) { FireBullet(); runState = "firedBullet"; }
         else { StopFiredBullet(); }
     }
     //ANIMATION STATES
@@ -119,7 +119,7 @@ public class PlayerMovement : MonoBehaviour
         ResetStates();
         
         bHAnimator.SetBool("firedBullet", true);
-        flipX = false;
+        flipX = true;
         Rigidbody2D bulletClone = Instantiate(bulletPrefab, bulletFirePoint, false);
         bulletClone.AddForce(Vector2.right * bulletSpeed);
     }
@@ -128,7 +128,7 @@ public class PlayerMovement : MonoBehaviour
         ResetStates();
 
         bHAnimator.SetBool("firedBullet", true);
-        flipX = true;
+        flipX = false;
         Rigidbody2D bulletClone = Instantiate(bulletPrefab, bulletFirePointLeft, false);
         bulletClone.AddForce(Vector2.left * bulletSpeed);
 
